@@ -1,0 +1,9 @@
+bibentry(
+  bibtype  = "Manual",
+  title    = "mvansteenbergen/Number-Cruncher: Version 1.0.0 - First Release",
+  author   = "Maas van Steenbergen",
+  year     = "2024"
+  doi      = "10.5281/zenodo.10515310",
+  url      = "https://github.com/MvanSteenbergen/Number-Cruncher",
+  textVersion = paste("Maas, V. S. (2024). MvanSteenbergen/Number-Cruncher: Version 1.0.0 - First Major Release (Version v1.0.0) [Computer software]")
+)
