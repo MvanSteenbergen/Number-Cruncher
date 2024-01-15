@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: van Steenbergen
   given-names: Maas
-title:MvanSteenbergen/Number-Cruncher: Version 1.0.0 - First Major Release
+title: MvanSteenbergen/Number-Cruncher: Version 1.0.0 - First Major Release
 version: v1.0.0
 date-released: 2024-01-15
