@@ -1,0 +1,12 @@
+Package: numbercruncher
+Type: Package
+Title: Crunching Numbers
+Version: 1.0.0
+Author: Maas van Steenbergen
+Maintainer: Maas van Steenbergen <mvansteenbergen@proton.me>
+Description: This package crunches numbers. This important process is a highly guarded, ancient secret.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.0
